@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "477770641855",
+    "firebase_url": "https://amicis-e251d.firebaseio.com",
+    "project_id": "amicis-e251d",
+    "storage_bucket": "amicis-e251d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477770641855:android:5e7d1dcda8861aa2",
+        "android_client_info": {
+          "package_name": "com.darklightning.amicis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477770641855-in6391cgnq5jcbmat3nve6u4t5ht15s6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darklightning.amicis",
+            "certificate_hash": "9fe466b3b16faf56154c728d552e1bb9e64e6ce2"
+          }
+        },
+        {
+          "client_id": "477770641855-h1cio495l43bbubjgdme6lkfrk08g9hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMfKX6VgznqT2G8iCE5oeukEPR4QZi2x4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477770641855-h1cio495l43bbubjgdme6lkfrk08g9hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
